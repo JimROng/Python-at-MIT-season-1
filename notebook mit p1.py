@@ -4,7 +4,7 @@ Created on Thu May 23 17:18:27 2019
 
 @author: lijiu
 """
-print("1.1")
+1.1
 #represent knowledge with data structure
 #iteration and recursion
 #abstraction 
@@ -17,7 +17,7 @@ print("1.1")
 #algorithm 
 
 #limitations
-print("1.2/1.3")
+1.2/1.3
 print("declarative knowledge : statements of fact ")
 print("imperative knowledge: a recipe of how")
 print("simple steps - flow of control - when to stop =algorithm") 
@@ -42,8 +42,8 @@ print("From Turing:"
       "highlight:abstract"
         )
 
-print("1.4"
-      "operations and expressions"
+1.4
+print("operations and expressions"
       "values"
       "primitive construct"
       "remember syntax and semantics"
